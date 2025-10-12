@@ -45,4 +45,6 @@ define('ALIST_PASSWORD', 'your_password');  // Alist密码
 ```
 3. 使用 `yourserver.com/api.php?file=/路径/文件名.zip` 进行下载，html内代码使用`<a href="api.php?file=xxx.7z">下载</a>`即可点击下载
 
+### 测试网页
+https://www.u3022173.nyat.app:12046/alistapi/
 
